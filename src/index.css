@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1 {
+  font-family: 'San Francisco', sans-serif;
+}
+
+h1 a:hover,
+h1 a.active {
+  color: white
+}
